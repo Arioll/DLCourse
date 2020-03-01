@@ -38,7 +38,7 @@ Deep Learning Course
 		  	Реализация нейронных сетей в Pytorch
 		  	Работа с датасетами в Pytorch
 		  	Задание: классификатор MNIST
-   
+
    Tensorflow_practice: Простейшие операции в Tensorflow
 			Обьект Session в Tensorflow
 			Обьект Variable в Tensorflow
